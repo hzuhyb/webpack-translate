@@ -2,6 +2,9 @@
 
 ## 进行中
 
+- /generated/loaders/development.md
+- /generated/loaders/caching.md
+
 ## 已完成
 
 - /generated/loaders/style-loader.md
